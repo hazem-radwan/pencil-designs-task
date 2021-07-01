@@ -2,4 +2,4 @@
 ![](images/register.png)
 ![](images/home.png)
 ![](images/add-product.png)
-![](images/edit-register.png)
+![](images/edit-product.png)
